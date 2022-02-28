@@ -1,0 +1,11 @@
+*.egg-info
+*.pot
+*.py[co]
+__pycache__
+MANIFEST
+dist
+node_modules
+build
+Scripts
+Lib
+*.cfg
